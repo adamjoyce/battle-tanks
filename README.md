@@ -1,2 +1,2 @@
 # battle-tanks
-Simple tank battle game.
+A simple tank battle game.
